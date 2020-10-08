@@ -18,8 +18,11 @@ body{
 	font-size: 19px
 }
 .use{
+  color: #DC143C;
 	font-weight: bold;
-	font-size: 24px
+	font-size: 24px;
+  font-style: italic;
+  
 }
 .li{
     color: #DC143C;
@@ -41,4 +44,10 @@ body{
   font-size: 16px;
   margin: 4px 2px;
   margin-left: 550px
+}
+
+#one{
+  color:#7FFF00;
+  font-size: 18px;
+
 }

@@ -2,7 +2,7 @@ body{
 	background-image:url(file:///C:/Users/F5/Downloads/thumb2-black-wooden-texture-4k-back-backgrounds-macro-wooden-textures.jpg); 
 }
 h1{
-	color: #7FFF00;
+	color:  #7FFF00;
     font-style: italic;
 }
 body{
@@ -14,15 +14,19 @@ body{
   
 }
 .ex{
-	color: #00FFFF;
+	color: #00FFFF ;
 	font-size: 19px
 }
 .use{
 	font-weight: bold;
 	font-size: 24px
+
+}
+.use{
+	color:#DC143C;
 }
 .li{
-    color: #DC143C;
+    color: ;
     font-weight: bold;
     font-size:22px 
 
@@ -30,6 +34,7 @@ body{
 .list{
 	text-decoration-line:underline;
 }
+
 #qize{
 	background-color:#7FFF00; 
   border: none;

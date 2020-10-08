@@ -1,17 +1,18 @@
 
 
 fieldset {
-background-color:tomato;
+background-color:#DC143C;
   max-width:300px;
   padding:20px;
+
 }
 
 body{
-	background-image:url(file:///C:/Users/F5/Downloads/black.jpg);
+	background-image:url(file:///C:/Users/F5/Downloads/thumb2-black-wooden-texture-4k-back-backgrounds-macro-wooden-textures.jpg);
 }
 
 h1{
-	color: #d4af37;
+	color: #7FFF00;
     font-style: oblique
 }
 
